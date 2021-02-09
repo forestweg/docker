@@ -1,3 +1,3 @@
 # 0.20.0
-FROM gcr.io/knative-releases/knative.dev/net-certmanager/cmd/controller@sha256:46e0af53c123849e6214e214efbfc6e02b62989c3a19d49937b8ce0c91aa7c3a
+FROM gcr.io/knative-releases/knative.dev/net-http01/cmd/controller@sha256:4eb3f2959f71384c4804926addd143a887acf3932b0f52fcf4cc1085be887ea7
 MAINTAINER ljp
